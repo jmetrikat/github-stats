@@ -134,22 +134,22 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 62.701%;
+  width: 62.727%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 15.443%;
+  width: 15.433%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 6.216%;
+  width: 6.211%;
 " class="progress-item"></span><span style="
   background-color: #F05138; 
-  width: 6.077%;
+  width: 6.073%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 4.525%;
+  width: 4.522%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 1.764%;
+  width: 1.763%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 0.854%;
@@ -170,7 +170,7 @@ div.ellipsis {
   width: 0.172%;
 " class="progress-item"></span><span style="
   background-color: #101F1F; 
-  width: 0.163%;
+  width: 0.162%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
   width: 0.149%;
@@ -272,7 +272,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">62.70%</span>
+  <span class="percent">62.73%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -288,7 +288,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jupyter Notebook</span>
-  <span class="percent">15.44%</span>
+  <span class="percent">15.43%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -304,7 +304,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">6.22%</span>
+  <span class="percent">6.21%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -320,7 +320,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Swift</span>
-  <span class="percent">6.08%</span>
+  <span class="percent">6.07%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
