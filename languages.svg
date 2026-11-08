@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 69.110%;
+  width: 69.144%;
 " class="progress-item"></span><span style="
   background-color: #DA5B0B; 
-  width: 8.450%;
+  width: 8.438%;
 " class="progress-item"></span><span style="
   background-color: #00ADD8; 
-  width: 5.265%;
+  width: 5.257%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 4.022%;
+  width: 4.021%;
 " class="progress-item"></span><span style="
   background-color: #F05138; 
-  width: 3.831%;
+  width: 3.829%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 3.778%;
+  width: 3.774%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 3.468%;
+  width: 3.463%;
 " class="progress-item"></span><span style="
   background-color: #844FBA; 
-  width: 0.569%;
+  width: 0.568%;
 " class="progress-item"></span><span style="
   background-color: #fcb32c; 
   width: 0.274%;
@@ -173,12 +173,12 @@ div.ellipsis {
   width: 0.095%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
-  width: 0.094%;
-" class="progress-item"></span><span style="
-  background-color: #101F1F; 
-  width: 0.089%;
+  width: 0.095%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
+  width: 0.089%;
+" class="progress-item"></span><span style="
+  background-color: #101F1F; 
   width: 0.089%;
 " class="progress-item"></span><span style="
   background-color: #3A4E3A; 
@@ -206,7 +206,7 @@ div.ellipsis {
   width: 0.024%;
 " class="progress-item"></span><span style="
   background-color: #ec915c; 
-  width: 0.017%;
+  width: 0.016%;
 " class="progress-item"></span><span style="
   background-color: #427819; 
   width: 0.016%;
@@ -278,7 +278,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">69.11%</span>
+  <span class="percent">69.14%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -294,7 +294,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jupyter Notebook</span>
-  <span class="percent">8.45%</span>
+  <span class="percent">8.44%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -358,7 +358,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">3.78%</span>
+  <span class="percent">3.77%</span>
 </li>
 <li style="animation-delay: 1050ms;">
   <svg 
@@ -374,7 +374,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">CSS</span>
-  <span class="percent">3.47%</span>
+  <span class="percent">3.46%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
@@ -422,7 +422,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">SCSS</span>
-  <span class="percent">0.21%</span>
+  <span class="percent">0.20%</span>
 </li>
 <li style="animation-delay: 1650ms;">
   <svg 
@@ -492,22 +492,6 @@ div.ellipsis {
   <svg 
       xmlns="http://www.w3.org/2000/svg" 
       class="octicon"
-      style="fill: #101F1F;" 
-      viewBox="0 0 16 16" 
-      version="1.1" 
-      width="16" 
-      height="16"
-  ><path 
-      fill-rule="evenodd" 
-      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
-  ></path></svg>
-  <span class="lang">AppleScript</span>
-  <span class="percent">0.09%</span>
-</li>
-<li style="animation-delay: 2400ms;">
-  <svg 
-      xmlns="http://www.w3.org/2000/svg" 
-      class="octicon"
       style="fill: #dea584;" 
       viewBox="0 0 16 16" 
       version="1.1" 
@@ -518,6 +502,22 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Rust</span>
+  <span class="percent">0.09%</span>
+</li>
+<li style="animation-delay: 2400ms;">
+  <svg 
+      xmlns="http://www.w3.org/2000/svg" 
+      class="octicon"
+      style="fill: #101F1F;" 
+      viewBox="0 0 16 16" 
+      version="1.1" 
+      width="16" 
+      height="16"
+  ><path 
+      fill-rule="evenodd" 
+      d="M8 4a4 4 0 100 8 4 4 0 000-8z"
+  ></path></svg>
+  <span class="lang">AppleScript</span>
   <span class="percent">0.09%</span>
 </li>
 <li style="animation-delay: 2550ms;">
